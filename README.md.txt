@@ -1,1 +1,0 @@
-Welcome to our Virtual Reality Group Project github. 

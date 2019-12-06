@@ -15,7 +15,7 @@ Unity version 2019.2.3f1
 Game must be played with sound on. 
 
 ## Example of Test
-[Screen Capture]()
+[Screen Capture](https://drive.google.com/file/d/1PJfMNiS3amCc7RV7e46C9esLwhszy_QR/view?usp=sharing)
 
 ## Assessor Guidlines
 [Prompting and Scoring Guidelines](https://drive.google.com/file/d/1z6i5-PozMLo1oaXEZkwivV5Z7HeR4yGy/view?usp=sharing)

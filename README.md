@@ -10,7 +10,7 @@ The job interview process is so focused on socialization and communication skill
 Creating a scene where there is a concrete goal of building a piece of furniture (i.e. a four leg coffee table) provides a developmentally appropriate motivating way to practice and have opportunities for social communication. The simulation has minimal distractions to focus the participant on the task and communication prompts given. Questioning for help and progress reports are indicative of any employer and employee relationship. Outlined for the assessor is a prompting guideline to elicit a response and more communication acts the individual may be capable of. Any communicative act is coded and accredited to the individual as participation in the experience. Asking for a break and to be removed is preferred end as compared to silently putting together the furniture. Having a scored assessment like this can expose areas of weakness and strengths for the individual to practice in order to go into the workplace. Having high communicative levels simulated in virtual reality can be put on a resume as proof for employment. There is a great functionality component individuals on the spectrum beyond what they are usually prescribed to. 
 
 ## Getting Started
-Unity version 2019.2.3f1
+Unity version 2019.2.8f1
 
 Game must be played with sound on. 
 
